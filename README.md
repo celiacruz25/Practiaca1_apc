@@ -1,2 +1,2 @@
-# Practiaca1_apc
+# Practica1_apc
 Pràctica 1 d'Aprenentatge Computacional
